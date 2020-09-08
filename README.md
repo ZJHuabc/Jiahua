@@ -1,18 +1,23 @@
 ## Education
 
 **The Chinese University of Hong Kong**, 2017 - Present
+
 Earth and Atmospheric Sciences, Ph.D. student
 
 **Wuhan University**, 2014 - 2017
+
 School of Geodesy and Geomatics, Master
 
 **Wuhan University**, 2010 - 2014
+
 School of Geodesy and Geomatics, Bachelor
 
 ## Research interests
 
 GNSS Reflectometry
+
 Frozen ground in polar regions and Qinghai-Tibet Plateau
+
 Sea level changes at the coast
 
 ## Publications
