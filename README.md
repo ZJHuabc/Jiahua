@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/ZJHuabc/jiahua/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+{\bf The Chinese University of Hong Kong}, Hong Kong, China \hfill {2017 - Present} \\ 
+Earth and Atmospheric Sciences, {\bf Ph.D. student}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{\bf Wuhan University}, Wuhan, China \hfill {2014 - 2017} \\ 
+School of Geodesy and Geomatics, {\bf M.E.}
 
-### Markdown
+{\bf Wuhan University}, Wuhan, China \hfill {2010 - 2014} \\ 
+School of Geodesy and Geomatics, {\bf B.E.}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research interests
 
-```markdown
-Syntax highlighted code block
+GNSS Reflectometry
+Frozen ground in polar regions and Qinghai-Tibet Plateau
+Sea level changes at the coast
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
 
-- Bulleted
-- List
+{\bf Jiahua Zhang} and Lin Liu. Mining noise data for monitoring Arctic permafrost by using GNSS interferometric reflectometry. {\bf Polar Science} (will be submitted by September 30, 2020)
 
-1. Numbered
-2. List
+{\bf Jiahua Zhang}, Lin Liu, Lei Su, and Tao Che (2020). Three-in-one: GPS-IR measurements of ground surface elevation changes, soil moisture, and snow depth at a permafrost site in the northeastern Qinghai-Tibet Plateau. {\bf The Cryosphere Discussion}, {\bf in review}, \url{https://doi.org/10.5194/tc-2020-236}
 
-**Bold** and _Italic_ and `Code` text
+{\bf Jiahua Zhang}, Lin Liu, and Yufeng Hu (2020). Global Positioning System interferometric reflectometry (GPS-IR) measurements of ground surface elevation changes in permafrost areas in northern Canada. {\bf The Cryosphere}, 14(6), 1875-1888. \url{https://doi.org/10.5194/tc-14-1875-2020}
 
-[Link](url) and ![Image](src)
-```
+Yufeng Hu, Lin Liu, Kristine Larson, Kevin Schaefer, {\bf Jiahua Zhang}, and Yibin Yao (2018). GPS Interferometric Reflectometry Reveals Cyclic Elevation Changes in Thaw and Freezing Seasons in a Permafrost Area (Barrow, Alaska). Geophysical Research Letters, 45, 5581-5589. \url{https://doi.org/10.1029/2018GL077960}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZJHuabc/jiahua/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
